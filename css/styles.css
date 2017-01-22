@@ -7,4 +7,23 @@
 .column {
   width: 500px;
   float: right;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  background-color: #dbdbdb;
+}
+
+.column h2 {
+  font-size: 32px;
+  font-style: normal;
+  font-family: sans-serif;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.column p {
+  font-style: italic;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
